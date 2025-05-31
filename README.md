@@ -4,4 +4,5 @@ Based on "overWaveDyMFoam", the "overWaveDyMFoamUCap" caps unrealistic air veloc
 Extra entry required in controlDict:
 
 // Air velocity capping frequency, for example, every 5 time steps
+
 UCapFreq		5; 
