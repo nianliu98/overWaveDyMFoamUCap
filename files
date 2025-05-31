@@ -1,0 +1,3 @@
+overWaveDyMFoamUCap.C
+
+EXE = $(WAVES_APPBIN)/overWaveDyMFoamUCap
